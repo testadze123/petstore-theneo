@@ -1,0 +1,203 @@
+{
+  "id": "68909ec6851ec56a83cacc46",
+  "name": "pets",
+  "lastExport": "2025-08-07T18:40:38.743Z",
+  "baseUrl": "https://petstore.swagger.io",
+  "sections": [
+    {
+      "name": "Swagger Petstore",
+      "slug": "swagger-petstore",
+      "children": [],
+      "isHeader": false,
+      "externalPageLink": "",
+      "isNewTab": false
+    },
+    {
+      "name": "pet",
+      "slug": "pet",
+      "children": [
+        {
+          "name": "uploads an image",
+          "slug": "pet/uploads-an-image",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Add a new pet to the store",
+          "slug": "pet/add-a-new-pet-to-the-store",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Update an existing pet",
+          "slug": "pet/update-an-existing-pet",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Finds Pets by status",
+          "slug": "pet/finds-pets-by-status",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Finds Pets by tags",
+          "slug": "pet/finds-pets-by-tags",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Find pet by ID",
+          "slug": "pet/find-pet-by-id",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Updates a pet in the store with form data",
+          "slug": "pet/updates-a-pet-in-the-store-with-form-data",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Deletes a pet",
+          "slug": "pet/deletes-a-pet",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        }
+      ],
+      "isHeader": false,
+      "externalPageLink": "",
+      "isNewTab": false
+    },
+    {
+      "name": "store",
+      "slug": "store",
+      "children": [
+        {
+          "name": "Place an order for a pet",
+          "slug": "store/place-an-order-for-a-pet",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Find purchase order by ID",
+          "slug": "store/find-purchase-order-by-id",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Delete purchase order by ID",
+          "slug": "store/delete-purchase-order-by-id",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Returns pet inventories by status",
+          "slug": "store/returns-pet-inventories-by-status",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        }
+      ],
+      "isHeader": false,
+      "externalPageLink": "",
+      "isNewTab": false
+    },
+    {
+      "name": "user",
+      "slug": "user",
+      "children": [
+        {
+          "name": "Creates list of users with given input array",
+          "slug": "user/creates-list-of-users-with-given-input-array",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Creates list of users with given input array",
+          "slug": "user/creates-list-of-users-with-given-input-array-1",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Get user by user name",
+          "slug": "user/get-user-by-user-name",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Updated user",
+          "slug": "user/updated-user",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Delete user",
+          "slug": "user/delete-user",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Logs user into the system",
+          "slug": "user/logs-user-into-the-system",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Logs out current logged in user session",
+          "slug": "user/logs-out-current-logged-in-user-session",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        },
+        {
+          "name": "Create user",
+          "slug": "user/create-user",
+          "children": [],
+          "isHeader": false,
+          "externalPageLink": "",
+          "isNewTab": false
+        }
+      ],
+      "isHeader": false,
+      "externalPageLink": "",
+      "isNewTab": false
+    }
+  ]
+}
